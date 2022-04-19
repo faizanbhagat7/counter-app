@@ -1,6 +1,9 @@
 
 <h1>❄ Counter Application ❄</h1>
 
+<h1>Link to deployed version</h1>
+``````
+
 <h2>💫💫 Powered by :</h2>
 
 <h3>
