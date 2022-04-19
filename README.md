@@ -1,2 +1,9 @@
-# counter-app
-count app with increase and decrease counting features powered by react js.
+
+❄ Counter Application ❄
+
+💫💫 Powered by :
+
+🚀 React javascript.
+🚀 Styled-components.
+🚀 React Hooks (useState[])
+
