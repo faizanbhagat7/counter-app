@@ -1,12 +1,14 @@
 
-❄ Counter Application ❄
+<h1>❄ Counter Application ❄</h1>
 
-💫💫 Powered by :
+<h2>💫💫 Powered by :</h2>
 
-🚀 React javascript.
-🚀 Styled-components.
-🚀 React Hooks (useState[ ])
-
+<h3>
+<li>🚀 React javascript.</li>
+<li>🚀 Styled-components.</li>
+<li>🚀 React Hooks (useState[ ])</li>
+</h3>
+  
 ## 1. Make sure you have NODE installed!
 
 Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
@@ -15,9 +17,16 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+```git clone https://github.com/faizanbhagat7/counter-app.git```
 ## 3. Install Dependancies
 Next, you need to install all the dependancies using:
 ```npm install```
 Once this is done, you can start the app with:
 ```npm start```
+
+<hr/>
+
+<h3>
+<li>💢 Feel free contributing into this application , adding new functionalities</li>
+<li>💢 Enjoy 🔥🔥</li>
+</h3>
