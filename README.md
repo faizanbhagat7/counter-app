@@ -1,9 +1,11 @@
 
 <h1>❄ Counter Application ❄</h1>
+<br/>
+<h3>Link to deployed version</h3>
+<hr/>
+https://subtle-narwhal-dc30af.netlify.app 
 
-<h1>Link to deployed version</h1>
-subtle-narwhal-dc30af.netlify.app
-
+<br/>
 <h2>💫💫 Powered by :</h2>
 
 <h3>
